@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6t=m*Wf*l|0YFgWtSq#-" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="9JOI(.%X.|UN,v@`y/kx"><value name="TIMES"><shadow type="math_whole_number" id="5wbq9H#-8Hd+XEhqy`e0"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="device_show_leds" id="q9$yLoeY]dh0aR@l)ly`"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="Y(8Hl7SQ!DZ,O`nM^A{S"><field name="i">IconNames.SmallDiamond</field><next><block type="basic_show_icon" id="WhYaeh[PKPRK`/hUb-;J"><field name="i">IconNames.Diamond</field><next><block type="device_show_leds" id="x9*0U75E|d|#1=eW/}69"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="Q_i`+Bgq1OwAz7@BT)%2"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="#[d_yM00%[5VuD_eP~l["><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="basic_show_icon" id="!gW/YRnrzBSD7NG;on6i"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="device_pause" id="c{NLfOE@2e6I_-k[+_ao"><value name="pause"><shadow type="timePicker" id="QKGQF%l_PZl*#U?KS95s"><field name="ms">2000</field></shadow></value><next><block type="device_print_message" id="NkSAM#r)[$)D|;OkR3Qu"><value name="text"><shadow type="text" id="z`pPy7w:/|{l]/xr)jvB"><field name="TEXT">  STARBERRY+</field></shadow></value><next><block type="device_print_message" id="gR8Q{d0oO7_;R}y9:y-z"><value name="text"><shadow type="text" id="cRq1min:aQU*qX|}=}7_"><field name="TEXT">¡Fresas con Crema!</field></shadow></value><next><block type="device_print_message" id="G~(YqLKO9e;U*3Zkp^@H"><value name="text"><shadow type="text" id="1211X2bIVhnbtL.;:-pt"><field name="TEXT">A tan solo 5000 pesitos</field></shadow></value><next><block type="device_print_message" id="93iZO*Ph|n[.5vtt)FvU"><value name="text"><shadow type="text" id="cvZTTw=C|GEjj6eL3KbU"><field name="TEXT">COMPRALAS YA</field></shadow></value><next><block type="basic_show_icon" id="hlrzoDguTZ(Hbv-kjv5L"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
